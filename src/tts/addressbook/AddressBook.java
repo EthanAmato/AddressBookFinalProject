@@ -164,9 +164,12 @@ public class AddressBook {
 					System.out.println(entry);
 				}
 				break;
+			default:
+				System.out.printf("An entry containing %s could not be found.\n", entryInfo);
+				break;
 			}
 		}
-		System.out.printf("An entry containing %s could not be found.\n", entryInfo);
+		
 	}	
 	
 	public void deleteBook() {

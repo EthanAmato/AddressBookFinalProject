@@ -28,3 +28,4 @@ Jamie;Biondolillo;5347260198;jbiondolillo@gmail.com
 Tom;Sims;3407596281;tsims@gmail.com
 Winifred;Hinkle;5364981072;whinkle@gmail.com
 ethan;amato;190238148;ethannamato@gmail.com
+Ethan;asdf;904234820;amatoe@bc.edu
